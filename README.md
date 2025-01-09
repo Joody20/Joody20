@@ -34,5 +34,7 @@
 </p>
 
 <h3 align="center">🤍 ConTact 🤍</h3>
-<a href="https://www.instagram.com/dazeroeo/profilecard/?igsh=MTYyYTJ2b21pbDM0eA=="><img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dazeroeo/profilecard/?igsh=MTYyYTJ2b21pbDM0eA=="/></a>&nbsp
+<p align="center">
+  <a href="https://www.instagram.com/dazeroeo/profilecard/?igsh=MTYyYTJ2b21pbDM0eA=="><img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dazeroeo/profilecard/?igsh=MTYyYTJ2b21pbDM0eA=="/></a>&nbsp
+</p>
 
