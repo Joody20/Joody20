@@ -36,6 +36,6 @@
 <h3 align="center">🤍 ConTact 🤍</h3>
 <p align="center">
   <a href="https://www.instagram.com/dazeroeo/profilecard/?igsh=MTYyYTJ2b21pbDM0eA=="><img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dazeroeo/profilecard/?igsh=MTYyYTJ2b21pbDM0eA=="/></a>&nbsp
-  <a href="judayeong10@gmail.com"><img src="https://img.shields.io/badge/gmail-#005FF9?style=for-the-badge&logo=instagram&logoColor=white&link=judayeong10@gmail.com"/></a>&nbsp
+  <a href="judayeong10@gmail.com"><img src="https://img.shields.io/badge/gmail-#005FF9?style=for-the-badge&logo=gmail&logoColor=white&link=judayeong10@gmail.com"/></a>&nbsp
 </p>
 
