@@ -32,3 +32,7 @@
   <img src="https://img.shields.io/badge/figma-a020f0?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
+
+<h3 align="center">🤍 ConTact 🤍</h3>
+<a href="https://www.instagram.com/dazeroeo/profilecard/?igsh=MTYyYTJ2b21pbDM0eA=="><img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dazeroeo/profilecard/?igsh=MTYyYTJ2b21pbDM0eA=="/></a>&nbsp
+
