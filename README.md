@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=eeb9b8&height=160&section=header&text=Hi!%20I'm%20Joody!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Joody20&show_icons=true&theme=rose" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joody20&layout=donut" />
 </div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -39,3 +37,7 @@
   <a href="judayeong10@gmail.com"><img src="https://img.shields.io/badge/gmail-005FF9?style=for-the-badge&logo=gmail&logoColor=white&link=judayeong10@gmail.com"/></a>&nbsp
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joody20&show_icons=true&theme=rose" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joody20&layout=donut" />
+</div>
