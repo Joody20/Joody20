@@ -38,6 +38,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joody20&show_icons=true&theme=rose" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Joody20&show_icons=true&theme=rose" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joody20&layout=donut" />
 </div>
