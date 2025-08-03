@@ -40,6 +40,6 @@
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Joody20&show_icons=true&theme=rose" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joody20&layout=donut" />
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=loveed123)](https://solved.ac/loveed123/)
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=loveed123)](https://solved.ac/loveed123/)
