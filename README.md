@@ -2,6 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=eeb9b8&height=160&section=header&text=Hi!%20I'm%20Joody!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000" />
 </div>
 
+
+
+<h3 align="center">Portfolio</h3>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/files/29943986/_._.pdf">
+    <img src="https://img.shields.io/badge/Open%20PDF-EA4335?style=flat-square&logo=adobeacrobatreader&logoColor=white">
+  </a>
+</p>
+
+
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
