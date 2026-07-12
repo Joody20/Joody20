@@ -37,10 +37,5 @@
   <a href="judayeong10@gmail.com"><img src="https://img.shields.io/badge/gmail-005FF9?style=for-the-badge&logo=gmail&logoColor=white&link=judayeong10@gmail.com"/></a>&nbsp
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joody20&layout=donut" />
-  <a href="https://solved.ac/loveed123">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=loveed123" />
-  </a>
-</div>
+
 
