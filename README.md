@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/user-attachments/files/29943986/_._.pdf">
-    <img src="https://img.shields.io/badge/Open%20PDF-EA4335?style=flat-square&logo=adobeacrobatreader&logoColor=white">
+    <img src="https://img.shields.io/badge/View%20Portfolio-📄-2f80ed?style=plastic"/>
   </a>
 </p>
 
