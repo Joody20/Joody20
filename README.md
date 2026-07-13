@@ -8,10 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/user-attachments/files/29943986/_._.pdf">
-    <img src="https://img.shields.io/badge/View%20Portfolio-📄-2f80ed?style=plastic"/>
+    <strong>View Portfolio (PDF)</strong>
   </a>
 </p>
-
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
